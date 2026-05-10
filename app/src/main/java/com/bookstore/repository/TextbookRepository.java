@@ -1,3 +1,5 @@
+// TextbookRepository - Implemented by Okuhlegenge
+// Manages all textbook listings with duplicate prevention and search functionality
 package com.bookstore.repository;
 
 import com.bookstore.exceptions.DuplicateBookException;
