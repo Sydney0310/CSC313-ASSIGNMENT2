@@ -17,7 +17,7 @@ The application serves as a practical implementation of core Object-Oriented Pro
 <p align="center">
   <img src="screenshots/home_screen.png" alt="Home Screen" width="30%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/book_details.png" alt="Book Details Screen" width="30%" />
+  <img src="screenshots/WhatsApp Image 2026-05-10 at 09.42.54.jpeg" alt="Book Details Screen" width="30%" />
 </p>
 
 ---
