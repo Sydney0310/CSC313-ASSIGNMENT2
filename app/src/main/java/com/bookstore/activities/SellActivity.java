@@ -1,3 +1,5 @@
+// SellActivity - Implemented by Nkosinathi-Mbewana
+// Handles textbook listing form with full validation and duplicate checking
 package com.bookstore.activities;
 
 import android.app.AlertDialog;
