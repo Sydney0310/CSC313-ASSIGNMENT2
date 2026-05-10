@@ -159,7 +159,7 @@ User clicks a card, Intent with extras starts BookDetailActivity
 | Okuhlegenge | https://github.com/Okuhlegenge | TextbookRepository, DuplicateBookException |
 | Nkosinathi-Mbewana |  https://github.com/Nkosinathi-Mbewana | SellActivity, BrowseActivity |
 | Anithasamkelisiwe-hue |  https://github.com/Anithasamkelisiwe-hue | XML layouts, RecyclerView adapter |
-| Member 6 | - | BookDetailActivity, SplashActivity |
+| musa5070 |  https://github.com/musa5070 | BookDetailActivity, SplashActivity |
 
 ---
 
