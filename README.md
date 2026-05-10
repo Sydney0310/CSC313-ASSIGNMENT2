@@ -55,8 +55,8 @@ This system was engineered collaboratively by Group 9:
 
 * **[Sydney0310](https://github.com/Sydney0310)** - Project setup, Gradle configuration, AndroidManifest, and final commits.
 * **[Luke-Mthwazi](https://github.com/Luke-Mthwazi)** - Interfaces, abstract class design, and `Textbook` entity modeling.
-* **Member 3** - `TextbookRepository` logic and `DuplicateBookException` handling.
-* **Member 4** - `SellActivity` and `BrowseActivity` implementation.
+* **Okuhlegenge** - `TextbookRepository` logic and `DuplicateBookException` handling.
+* **Nkosinathi-Mbewana** - `SellActivity` and `BrowseActivity` implementation.
 * **[Anithasamkelisiwe-hue](https://github.com/Anithasamkelisiwe-hue)** - XML UI layouts and `RecyclerView` adapter integration.
 * **[musa5070](https://github.com/musa5070)** - `BookDetailActivity` and `SplashActivity` implementation.
 
