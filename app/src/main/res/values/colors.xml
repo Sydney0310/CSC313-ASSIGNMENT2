@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1A237E</color>
+    <color name="primary_dark">#0D1B6E</color>
+    <color name="accent">#0288D1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_bg">#F5F7FF</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="green">#2E7D32</color>
+    <color name="red">#C62828</color>
+    <color name="orange">#E65100</color>
+    <color name="divider">#E0E0E0</color>
+</resources>
