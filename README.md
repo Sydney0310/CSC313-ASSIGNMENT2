@@ -156,9 +156,9 @@ User clicks a card, Intent with extras starts BookDetailActivity
 |---|---|---|
 | Sydney0310 | https://github.com/Sydney0310 | Project setup, Gradle configuration, AndroidManifest, final commit |
 | Luke-Mthwazi | https://github.com/Luke-Mthwazi | Interfaces, abstract class, Textbook model |
-| Member 3 | - | TextbookRepository, DuplicateBookException |
-| Member 4 | - | SellActivity, BrowseActivity |
-| Member 5 | - | XML layouts, RecyclerView adapter |
+| Okuhlegenge | https://github.com/Okuhlegenge | TextbookRepository, DuplicateBookException |
+| Nkosinathi-Mbewana |  https://github.com/Nkosinathi-Mbewana | SellActivity, BrowseActivity |
+| Anithasamkelisiwe-hue |  https://github.com/Anithasamkelisiwe-hue | XML layouts, RecyclerView adapter |
 | Member 6 | - | BookDetailActivity, SplashActivity |
 
 ---
